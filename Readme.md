@@ -37,10 +37,14 @@ Metashapeを用いて、写真のアライン＞高密度ポイントクラウ�
 
 <img src="./data/profile_figure/profile.png" width="600px">
 
++ 3D表示機能のあるGISソフトでオルソと災害後DSMを重ねて、オルソの標高を災害後DSMに設定することで下記のような鳥瞰図を作成することができます。
+<img src="./data/scene/birdview.png" width="600px">
+
+
 また、今回作成した、大久保地区のエリアは下記のシェープファイルの範囲内です。
 +  大久保地区範囲: data\area
 
-## 解析方法（その２）作成中
+## 解析方法（その２）は現在作成中です
 
 
 
