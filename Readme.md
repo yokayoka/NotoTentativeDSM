@@ -29,7 +29,7 @@ Metashapeを用いて、写真のアライン＞高密度ポイントクラウ�
 + オルソ： data\20240102ortho_af_eq\FsmOrtho.tif
 + 災害後DSMから作成した等高線図（陰影図; PDF形式）: data\contourmap\shade_cont5m.pdf
 + 災害後DSMから作成した等高線図（オルソ; PDF形式）: data\contourmap\ortho_cont5m.pdf
-
++ 災害後の点群（0.1m間隔に間引き）： data\las\PCloud_GSI240102_ver240107_resamp1m.las
 また、比較のために大久保地区の災害前のDEMも参照できます。
 + 災害前のDEM (石川県が2022年に行った航空レーザー測量より作成): data\2022dem_bf_eq\bfDEM.tif
 
